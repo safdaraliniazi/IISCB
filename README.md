@@ -1,4 +1,4 @@
-#Steps to start the project
+# Steps to start the project
 
 1. CLone the repo ` git clone https://github.com/safdaraliniazi/IISCB.git `
 2. Go to the backend folder and paste this command on terminal `pip install -r requirements.txt`
@@ -8,3 +8,5 @@
 6. Now run backend using `docker run -d -p 5000:5000 backend-image`
 7. Now run frontend using `docker run -d -p 80:80 frontend-image`
 
+# Click here to watch the installation video and Demo of thee project
+https://drive.google.com/file/d/1YHVSFjFgK5LiFQMrVVwey3Br4SAjgTVz/view?usp=drive_link
